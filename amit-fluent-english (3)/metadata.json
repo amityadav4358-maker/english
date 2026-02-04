@@ -1,0 +1,7 @@
+{
+  "name": "Amit Fluent English ",
+  "description": "A comprehensive Hindi-to-English translation and speaking app organized by grammar tenses to help you master English conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
